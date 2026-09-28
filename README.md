@@ -1,131 +1,107 @@
 # Hi, I'm Deepanshu Pal 👋
 
-### Frontend Developer | JavaScript Developer | Aspiring Full Stack Developer
+### Frontend Developer | React.js | JavaScript
 
-I'm a passionate Frontend Developer focused on building responsive, interactive, and user-friendly web applications.
+I'm a BCA graduate and Frontend Developer focused on building responsive and user-friendly web applications.
 
-I enjoy learning by building real-world projects and continuously improving my problem-solving and development skills.
-
-My long-term goal is to become a **Full Stack Developer**, with **React.js** for frontend development and **Python** for backend development.
+I have hands-on experience with HTML, CSS, JavaScript, and React.js, and I'm currently learning Python for backend development with the goal of becoming a Full-Stack Developer.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💻 Tech Stack
 
 ### Frontend
 - HTML5
 - CSS3
 - JavaScript
 - React.js
+- React Router
 
-### Tools
+### Backend / Programming
+- Python
+- SQL
+
+### Tools & Technologies
 - Git
 - GitHub
-- VS Code
 - REST APIs
-
-### Backend — Learning Path
-- Python
-- Backend Development
-- APIs & Databases
+- Fetch API
+- Local Storage
+- JSON
+- VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌦️ Weather App
+### 💰 Expense & Income Manager
 
-A responsive weather application built with **HTML, CSS, and JavaScript** that allows users to search for weather information using a city name.
+A React-based application for managing income and expense transactions.
 
-**Key Features:**
-- Search weather by city
-- Real-time weather data using OpenWeather API
-- Dynamic weather information display
-- Responsive user interface
-- API integration using JavaScript
+**Features:**
+- CRUD operations
+- Search and filtering
+- Form validation
+- Income, expense and balance calculations
+- Local Storage data persistence
+- Responsive glassmorphism UI
+- GitHub Pages deployment
 
-**Technologies:** HTML, CSS, JavaScript, OpenWeather API
+🔗 [Live Demo](https://deepanshupal-dev.github.io/Expense-Income-Manager/)  
+🔗 [Repository](https://github.com/deepanshupal-dev/Expense-Income-Manager)
 
 ---
 
 ### ✅ To-Do List
 
-A simple and interactive task management application built with **HTML, CSS, and JavaScript** for creating and managing daily tasks.
+A responsive To-Do application built using HTML, CSS and JavaScript.
 
-**Key Features:**
-- Add new tasks
-- Display tasks dynamically
-- Clear/remove tasks
-- Empty-state message when no tasks are available
-- Data handling using JavaScript
-- Clean and responsive interface
+**Features:**
+- Add and delete tasks
+- Complete/undo tasks
+- Task filtering
+- Clear all tasks
+- Local Storage persistence
+- Responsive UI
 
-**Technologies:** HTML, CSS, JavaScript
-
----
-
-### 🎨 Color Changer
-
-An interactive JavaScript project that generates random RGB colors and dynamically changes the page background.
-
-**Key Features:**
-- Generate random RGB colors
-- Dynamically change background color
-- Display the generated RGB value
-- Copy generated color value to clipboard
-- Interactive user interface
-
-**Technologies:** HTML, CSS, JavaScript
+🔗 [Live Demo](https://deepanshupal-dev.github.io/To-Do-list/)  
+🔗 [Repository](https://github.com/deepanshupal190-png/To-Do-list)
 
 ---
 
-### 🎬 Netflix Clone
+### 🌤️ Weather App
 
-A responsive Netflix-inspired streaming platform interface built using **HTML and CSS**.
+A weather application built using JavaScript and a weather API to fetch and display weather information.
 
-The project focuses on recreating the visual structure and user interface of a modern streaming platform while practicing responsive layouts and CSS styling.
-
-**Key Features:**
-- Netflix-inspired user interface
-- Responsive layout
-- Navigation section
-- Movie/show sections
-- Banner section
-- Modern dark-themed design
-
-**Technologies:** HTML, CSS
+**Technologies:**
+- HTML
+- CSS
+- JavaScript
+- Fetch API
+- REST API
 
 ---
 
 ## 📚 Currently Learning
 
 - React.js
-- Modern JavaScript
-- Component-Based Development
-- Frontend Application Development
-
----
-
-## 🔮 Future Learning
-
-After strengthening my frontend development skills, I plan to learn:
-
 - Python
 - Backend Development
-- REST APIs
-- Databases
-- Full Stack Web Development
+- Full-Stack Development
+- JavaScript Interview Preparation
 
 ---
 
-## 🎯 My Goal
+## 🎯 Career Goal
 
-To become a **Full Stack Developer** capable of building complete, scalable, and user-friendly web applications from frontend to backend.
+My goal is to become a Full-Stack Developer by strengthening my frontend development skills and building backend applications with Python.
+
+I enjoy learning new technologies, solving problems, and building practical projects.
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 **Email:** deepanshupal190@gmail.com
-
-💻 **GitHub:** [@deepanshupal-dev](https://github.com/deepanshupal-dev)
+- 💼 [LinkedIn](https://linkedin.com/in/deepanshu-pal-585247391)
+- 🐙 [GitHub](https://github.com/deepanshupal-dev)
+- 📧 deepanshupal190@gmail.com
